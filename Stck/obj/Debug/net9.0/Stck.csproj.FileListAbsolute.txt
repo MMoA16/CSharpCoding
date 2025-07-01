@@ -1,0 +1,14 @@
+/Users/surakshakolekar/Documents/Dotnet/Stck/obj/Debug/net9.0/Stck.GeneratedMSBuildEditorConfig.editorconfig
+/Users/surakshakolekar/Documents/Dotnet/Stck/obj/Debug/net9.0/Stck.AssemblyInfoInputs.cache
+/Users/surakshakolekar/Documents/Dotnet/Stck/obj/Debug/net9.0/Stck.AssemblyInfo.cs
+/Users/surakshakolekar/Documents/Dotnet/Stck/obj/Debug/net9.0/Stck.csproj.CoreCompileInputs.cache
+/Users/surakshakolekar/Documents/Dotnet/Stck/bin/Debug/net9.0/Stck
+/Users/surakshakolekar/Documents/Dotnet/Stck/bin/Debug/net9.0/Stck.deps.json
+/Users/surakshakolekar/Documents/Dotnet/Stck/bin/Debug/net9.0/Stck.runtimeconfig.json
+/Users/surakshakolekar/Documents/Dotnet/Stck/bin/Debug/net9.0/Stck.dll
+/Users/surakshakolekar/Documents/Dotnet/Stck/bin/Debug/net9.0/Stck.pdb
+/Users/surakshakolekar/Documents/Dotnet/Stck/obj/Debug/net9.0/Stck.dll
+/Users/surakshakolekar/Documents/Dotnet/Stck/obj/Debug/net9.0/refint/Stck.dll
+/Users/surakshakolekar/Documents/Dotnet/Stck/obj/Debug/net9.0/Stck.pdb
+/Users/surakshakolekar/Documents/Dotnet/Stck/obj/Debug/net9.0/Stck.genruntimeconfig.cache
+/Users/surakshakolekar/Documents/Dotnet/Stck/obj/Debug/net9.0/ref/Stck.dll
